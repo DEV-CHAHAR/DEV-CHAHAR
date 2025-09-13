@@ -1,4 +1,14 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&lines=Hi+👋,+I'm+WiseGPT;Developer;AI+Enthusiast)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-success?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Click Me](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)](https://your-project-link.com)
+![Snake animation](https://github.com/WiseGPT/WiseGPT/blob/output/github-contribution-grid-snake.svg)
+![Pixel Laptop](https://i.gifer.com/76YS.gif)
+## 🚀 Explore
+[![Projects](https://img.shields.io/badge/Projects-Explore-orange?style=for-the-badge)](#)
+[![Resume](https://img.shields.io/badge/Resume-View-green?style=for-the-badge)](#)
+[![Contact](https://img.shields.io/badge/Contact-Email-red?style=for-the-badge)](mailto:you@example.com)
 
 <!--
 **DEV-CHAHAR/DEV-CHAHAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

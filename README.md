@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&lines=Hi+👋,+I'm+WiseGPT;Developer;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&lines=Hi+👋,+I'm+Devesh+Chahar;Developer;AI+Enthusiast)](https://git.io/typing-svg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-success?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Click Me](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)](https://your-project-link.com)
